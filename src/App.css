@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.firstpart{
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: flex-start;
+  gap: 100px;
+  height: 50px;
+  margin-bottom: 30px;
+}
+.secondpart{
+  background-color:  rgb(0, 0, 0); 
+
+ 
+
+ 
+}
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 61px;
+
+}
+.card{
+
+}
+.cardbody{
+  background-color:black;
+
+}
+.title{
+  color: white;
+}
+.modalcontainer{
+  background-color: rgb(255, 255, 255);
+  width: 400px;
+  width: 100%;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
